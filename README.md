@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @iskr889
 - 👀 I’m interested in sofware, engineering and technology
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on new proyects that helps people 
+- 🌱 I’m currently learning new technologies.
+- 💞️ I’m looking to collaborate on proyects that helps people
